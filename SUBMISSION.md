@@ -1,13 +1,13 @@
 # 📝 Submission – Mini-Hackathon Demo Day
 
 ## 1. Team Information
-**Team Name:** Farming Engine Web3 Team
+**Team Name:** Crucial VOAI
 
 **Team Members (Name – Role):**
-- Nguyễn Thành Phong – fresher / fresher Unity Developer / Ai fresher / CV Engineer.
-- Trần Hoàng Thông – fresher / Fresher Software Engineer.
-- Trần An Kỳ - Fresher
-- Trịnh Ngọc Minh Nhật - Fresher Ai.
+- Nguyễn Thành Phong – fresher DSA / CV Engineer.
+- Trần Hoàng Thông – fresher.
+- Trần An Kỳ - Fresher DSA
+- Trịnh Ngọc Minh Nhật - Fresher DSA.
 - Lê Phạm Thúy Hiền - None.
 
 
